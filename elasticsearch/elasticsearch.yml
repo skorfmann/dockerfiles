@@ -1,3 +1,8 @@
 path:
   data: /data
   logs: /logs
+
+river.twitter.oauth.consumer_key: " ${TWITTER_CONSUMER_KEY}"
+river.twitter.oauth.consumer_secret: "${TWITTER_CONSUMER_SECRET}"
+river.twitter.oauth.access_token: "${TWITTER_ACCESS_TOKEN}"
+river.twitter.oauth.access_token_secret: "${TWITTER_ACCESS_TOKEN_SECRET}"
